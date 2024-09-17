@@ -3,8 +3,9 @@
 ## Tabla de Contenidos
 
 1. [Descripción](#descripción-del-proyecto)
-2. [Instalación](#instrucciones-de-instalación)
-3. [Estructura de archivo](#estructura-de-archivos)
+2. [Vista Previa](#vista-previa)
+3. [Instalación](#instrucciones-de-instalación)
+4. [Estructura de archivo](#estructura-de-archivos)
 5. [Características principales](#características-principales)
 6. [Mejora potencial](#mejora-potencial)
 
@@ -14,6 +15,13 @@
 Este proyecto consiste en una **página de testimonios** que presenta una sección de revisión con herramientas y listas de verificación para revisores de artículos académicos, y una sección de testimonios de usuarios que han utilizado dichos recursos.
 
 El proyecto está diseñado con **HTML5** y utiliza **CSS** para el diseño visual. Además, incluye la integración de **Google Fonts** para estilizar el texto. La estructura del sitio está organizada con un enfoque modular, dividiendo el contenido en secciones claramente definidas.
+
+
+## Vista Previa
+
+![Captura del Proyecto](./assets/desktop-preview.png)
+
+Puedes ver la versión demo en vivo aquí: [Testimonial Page](https://ibrahim-003.github.io/Testimonial-Page/)
 
 ## Instrucciones de Instalación
 
