@@ -9,7 +9,7 @@ El proyecto está diseñado con **HTML5** y utiliza **CSS** para el diseño visu
 
 ## Vista Previa
 
-![Captura del Proyecto](./assets/images/desktop-preview.webp)
+![Captura del Proyecto](./src/assets/images/desktop-preview.webp)
 
 Puedes ver la versión demo en vivo aquí: [Testimonial Page](https://ibrahim-003.github.io/Testimonial-Page/)
 
